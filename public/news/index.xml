@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on PyLadiesCon 2024</title>
+    <link>http://localhost:1313/news/</link>
+    <description>Recent content in News on PyLadiesCon 2024</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Nov 2024 05:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Join Mentored Sprint at PyLadiesCon 2024</title>
+      <link>http://localhost:1313/news/join-the-sprint/</link>
+      <pubDate>Wed, 20 Nov 2024 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/join-the-sprint/</guid>
+      <description>&lt;p&gt;Do you want to start contributing to open source?&lt;/p&gt;&#xA;&lt;p&gt;Finding lost about where to get started?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Registration is now Open</title>
+      <link>http://localhost:1313/news/registration-opens/</link>
+      <pubDate>Fri, 15 Nov 2024 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/registration-opens/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Registration for PyLadiesCon 2024 is Now Open!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;We are thrilled to announce that registration for &lt;strong&gt;PyLadiesCon 2024&lt;/strong&gt; is officially open!&#xA;🎉 Join us for an exciting, inclusive, and global conference dedicated to empowering women and allies in the Python community.&#xA;This year, we&amp;rsquo;re bringing together Python enthusiasts worldwide to learn, share, and grow in a welcoming online environment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Announcing Our Schedule</title>
+      <link>http://localhost:1313/news/announcing-our-schedule/</link>
+      <pubDate>Fri, 08 Nov 2024 11:34:42 -0800</pubDate>
+      <guid>http://localhost:1313/news/announcing-our-schedule/</guid>
+      <description>&lt;h2 id=&#34;pyladiescon-schedule-has-been-released&#34;&gt;PyLadiesCon Schedule has been released&lt;/h2&gt;&#xA;&lt;p&gt;We are pleased to announce the &lt;a href=&#34;http://localhost:1313/schedule&#34;&gt;schedule&lt;/a&gt; for PyLadiesCon 2024.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thank you ❤️ PyLadiesCon 2024 received many proposals!</title>
+      <link>http://localhost:1313/news/cfp-close/</link>
+      <pubDate>Tue, 17 Sep 2024 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/cfp-close/</guid>
+      <description>&lt;p&gt;Call for Proposal of PyLadiesCon 2024 was closed on 15th September and we have received almost 200 proposals! Thank you for all that has been submitted, in our minds you are super awesome and we would love to see your talk. However, the reviews will have a busy weeks ahead to review all the proposals and we will have tough decisions to make regarding which talks to accept. We aim to publish a tentative schedule by 8th October.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Speaker Support for PyLadiesCon 2024</title>
+      <link>http://localhost:1313/news/speaker-support/</link>
+      <pubDate>Mon, 02 Sep 2024 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/speaker-support/</guid>
+      <description>&lt;p&gt;&lt;em&gt;📢 The first round of mentorship will be closed on 15th Sept, new rounds will be open again for confirmed speakers of PyLadiesCon 2024&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cfp Outreach Kit - French</title>
+      <link>http://localhost:1313/news/-cfp-outreach-kit-french/</link>
+      <pubDate>Wed, 28 Aug 2024 21:35:45 -0400</pubDate>
+      <guid>http://localhost:1313/news/-cfp-outreach-kit-french/</guid>
+      <description>&lt;p&gt;Chers organisateurs PyLadies,&lt;/p&gt;&#xA;&lt;p&gt;Nous avons besoin de votre aide pour diffuser la nouvelle de PyLadiesCon. Vous,&#xA;en tant qu&amp;rsquo;organisateurs, membres et partisans, pouvez contribuer à contacter&#xA;des personnes qui pourraient être d&amp;rsquo;excellents intervenants pour la conférence,&#xA;et qui pourraient ne pas avoir entendu parler de l&amp;rsquo;événement. Votre connexion&#xA;et votre présentation contribueront à faire de notre conférence un événement&#xA;exceptionnel.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cfp Outreach Kit - Japanese</title>
+      <link>http://localhost:1313/news/-cfp-outreach-kit-japanese/</link>
+      <pubDate>Wed, 28 Aug 2024 21:35:45 -0400</pubDate>
+      <guid>http://localhost:1313/news/-cfp-outreach-kit-japanese/</guid>
+      <description>&lt;p&gt;PyLadies オーガナイザー, PyLadies メンバー,&#xA;そしていつもPyLadiesをサポートしてくれてるみなさま&lt;/p&gt;&#xA;&lt;p&gt;PyLadiesCon 2024 の情報を広めるために、ぜひ協力をおねがいします!&lt;/p&gt;&#xA;&lt;p&gt;PyLadies のオーガナイザー、メンバー、サポーターの 1 人として、みなさん自身もこのカンファレンスのスピーカーになることもできますし、まだこのカンファレンスについて知らないかもしれない誰かがスピーカーになるかもしれない機会の創出を手伝うこともできます。ぜひ周りのPythonistaへ情報の拡散をお願いします。私たちのカンファレンスを素晴らしいものにするためにはみなさんの力が必要です。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cfp Outreach Kit - Portuguese</title>
+      <link>http://localhost:1313/news/-cfp-outreach-kit-portuguese/</link>
+      <pubDate>Wed, 28 Aug 2024 21:35:45 -0400</pubDate>
+      <guid>http://localhost:1313/news/-cfp-outreach-kit-portuguese/</guid>
+      <description>&lt;p&gt;Prezadas organizadoras, membros e apoiantes da PyLadies&lt;/p&gt;&#xA;&lt;p&gt;Precisamos da sua ajuda para espalhar a notícia da PyLadiesCon 2024. Você, como&#xA;organizador ou organizadora, membro, apoiador ou apoiadora, pode ajudar-nos a&#xA;alcançar pessoas que podem ser ótimas oradoras para a conferência e que talvez&#xA;não saibam desta conferência. A sua rede de contactos pode tornar a nossa&#xA;conferência excelente.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cfp Outreach Kit - Spanish</title>
+      <link>http://localhost:1313/news/-cfp-outreach-kit-spanish/</link>
+      <pubDate>Wed, 28 Aug 2024 21:35:45 -0400</pubDate>
+      <guid>http://localhost:1313/news/-cfp-outreach-kit-spanish/</guid>
+      <description>&lt;p&gt;Queridas organizadoras, integrantes y seguidoras de PyLadies:&lt;/p&gt;&#xA;&lt;p&gt;Necesitamos su ayuda para difundir las novedades de PyLadiesCon 2024. Ustedes,&#xA;como organizadoras y seguidoras de nuestra comunidad, pueden ayudarnos a llegar&#xA;a personas que podrían ser excelentes ponentes para la conferencia y que quizás&#xA;aún no hayan oído hablar de ella. Su conexión e introducción nos ayudarán a&#xA;hacer que nuestra conferencia sea grandiosa.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cfp Outreach Kit - Traditional Chinese</title>
+      <link>http://localhost:1313/news/-cfp-outreach-kit-tchinese/</link>
+      <pubDate>Wed, 28 Aug 2024 21:35:45 -0400</pubDate>
+      <guid>http://localhost:1313/news/-cfp-outreach-kit-tchinese/</guid>
+      <description>&lt;p&gt;親愛的 PyLadies 組織者、成員及支持者&lt;/p&gt;&#xA;&lt;p&gt;我們誠摯地邀請您幫助我們擴大 PyLadiesCon 2024 的影響力。作為我們的組織者、成員及支持者，您的支持對我們來說非常寶貴。我們希望您能協助尋找潛在的優秀講者，同時向尚未聽說過 PyLadiesCon 2024 的人介紹本活動。您的聯繫和推薦將使 PyLadiesCon 2024 更加出色。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cfp Outreach Kit</title>
+      <link>http://localhost:1313/news/cfp-outreach-kit/</link>
+      <pubDate>Tue, 20 Aug 2024 19:46:55 -0400</pubDate>
+      <guid>http://localhost:1313/news/cfp-outreach-kit/</guid>
+      <description>&lt;p&gt;Dear PyLadies organizers, members, and supporters&lt;/p&gt;&#xA;&lt;p&gt;We need your help in spreading the news of PyLadiesCon 2024. You, as one of our&#xA;organizers, members, and supporters, can help reach out to individuals who&#xA;could be a great speaker for the conference and who might have yet to hear of&#xA;the conference. Your connection and introduction will help make our conference&#xA;great.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Call for Sponsors</title>
+      <link>http://localhost:1313/news/call-for-sponsors/</link>
+      <pubDate>Fri, 16 Aug 2024 20:26:21 -0500</pubDate>
+      <guid>http://localhost:1313/news/call-for-sponsors/</guid>
+      <description>&lt;h2 id=&#34;join-us-become-a-sponsor-of-the-second-edition-of-the-global-pyladies-conference&#34;&gt;Join us! Become a sponsor of the second edition of the Global PyLadies conference!&lt;/h2&gt;&#xA;&lt;p&gt;We are busy planning the 2024 edition of the Global PyLadies Conference, and we’d like to invite you to help support our event.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Submit your talks to PyLadiesCon 2024!</title>
+      <link>http://localhost:1313/news/cfp_open/</link>
+      <pubDate>Wed, 14 Aug 2024 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/cfp_open/</guid>
+      <description>&lt;p&gt;Just like last year, PyLadies Con 2024 will be a multiple-lingual online conference, happening at 6th-8th December 2024.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Save the date!</title>
+      <link>http://localhost:1313/news/save_the_date/</link>
+      <pubDate>Wed, 31 Jul 2024 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/save_the_date/</guid>
+      <description>&lt;p&gt;Attention all PyLadies community members! We’re excited to share that we are in the early stages of planning a&#xA;PyLadies Conference (PyLadiesCon), a transformative event designed to promote diversity, learning,&#xA;and empowerment within the Python community. 🎉&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
